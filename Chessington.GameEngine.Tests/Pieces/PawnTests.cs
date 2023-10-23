@@ -5,4 +5,6 @@ namespace Chessington.GameEngine.Tests.Pieces;
 [TestFixture]
 public class PawnTests
 {
+
 }
+
